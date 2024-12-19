@@ -18,7 +18,7 @@ function HomePage() {
         {/* Subtext */}
         <p className="italic text-sm md:text-base text-center mt-4">
           Promote your business on our social media platforms to increase <br />
-          or sales learn how to advertise your own business yourself on social media platforms.
+           sales or learn how to advertise your own business yourself on social media platforms.
         </p>
 
         {/* Images Section */}
